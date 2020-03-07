@@ -1,8 +1,8 @@
-# {{name}}
+# Random quotes
 
 ## Run
 
-``` shell
+```shell
 yarn install
 
 yarn watch
@@ -10,13 +10,13 @@ yarn watch
 
 ## Clean
 
-``` shell
+```shell
 yarn clean
 ```
 
 ## Release
 
-``` shell
+```shell
 yarn release
 ```
 
